@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.display {
+    text-align: center; 3
+}
+
+.input {
+    text-align: center;
+    margin: 100px 0;
+}
+
+input[type="text"] {
+    height: 50px;
+    width: 600px;
+    background: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 2px;
+    padding: 10px 10px;
+}
+
+button[type="submit"] {
+    height: 50px;
+    width: 100px;
+    background: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 2px;
+}
